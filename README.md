@@ -15,6 +15,12 @@ Javascript is such an amazing language, once you understand all the things that 
 # PHASE 2
 Once I was a little bit more condifent by understanding how to read Javascript every where (at least the foundation), I found and bought [HTMLPanelsBook](https://www.htmlpanelsbook.com/), an amazing course by this funny and talented italian developer, [Davide Barranca](https://www.davidebarranca.com/). You'll see how it is very easy to follow his teaching on this course, it is so clear that even though after two years that I took the course I still learn something from it. So this is a extremely recommended course for you if you are interested to write CEP Panels / Extensions for Adobe Photoshop.
 
+# Starterpack TOOLKIT
+Here are some tools that I use daily that will help you to become a developer.
+- First, you'll an IDE (Integrated development environment) to write code. 
+* [Brackets](http://brackets.io/)
+
+
 Composite Nation and Oniric have been the most difficult thing that I have tried and at the same time the most satisfactory, the biggest challenge that have put my self in my life.
 
 There´s is a point that you reach when you study programming that you are able to understand the fundamentals and it becomes an irresistible satisfaction when seeing code, at least that happens to me.Being able to understand those paragraphs that I have ever seen as hieroglyphics fills my brain with dopamine, it makes my creativity spurt.
