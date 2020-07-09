@@ -1,4 +1,5 @@
-# Adobe Photoshop programming guide (How I got involved on developing software that can be used inside Photoshop?)
+# Adobe Photoshop programming guide 
+##(How I got involved on developing software that can be used inside Photoshop?)
 If you are like me, you love programming and you are interested plugins or extensions / panels works inside a software like for Adobe Photoshop. So I made a quick guide on how to get you started and avoid you some headaches by shadring with you the path I took to learn what I know today, but first I'll tell you a little bit about who I am.
 
 I'm Mario OM, a freelance Photographer, Retoucher, Matte Painter, CGI artist, basically a multidiciplinary artist who founded a software company and a [Artist Community](http://facebook.com/groups/compositenation) called [Composite Nation](http://compositenation.com) on April 15 2018, which is my main life playground and hobby. I spent 2 years destroying walls and finding ways to learn to program what I wanted to program, It was very deifficult for me becuase I was not used to think logically but with a more chaothic and less structural thought patterns. I had to learn to be a full-stack developer to build my project the way I visioned. Today I work on this 24/7 and nothing excites me more than learning new ways to expand this even more. My life changed drastically when I start started learning to program, even my artistic vision was expanded 10xINFINITE.
@@ -17,7 +18,8 @@ Once I was a little bit more condifent by understanding how to read Javascript e
 
 # Starterpack TOOLKIT
 Here are some tools that I use daily that will help you to become a developer.
-- First, you'll an IDE (Integrated development environment) to write code. 
+
+First, you'll an IDE (Integrated development environment) to write code. Here's the one which I used to start programming:
 * [Brackets](http://brackets.io/)
 
 
