@@ -7,6 +7,7 @@ So here's how I started:
 
 I started by learning the most basic stuff, the foundation of programming on this amazing site, the language I learned first was [Javascript](https://developer.mozilla.org/es/docs/Web/JavaScript). Which is the main language that is used on this Adobe Photoshop extensions and scripts.
 * [W3Schools](https://www.w3schools.com/js/default.asp) Here you can learn step by step the foundation of Javascript.
+* [Solo Learn](https://www.sololearn.com/) This is another amazing website to learn to program the basics. I have this one installed on my smartphone and when I travel I enjoy a lot learning another languages. Here I practice a lot my knowledge with Javascript and I learned the foundation of other languages like Pythong and C++. But let's just focus on Javascript today.
 
 Which is an amazing language once you understand all the things that can be done with this. You can create stand alone apps aswell with this language using frameworks like [Electron](https://www.electronjs.org/) an.
 
