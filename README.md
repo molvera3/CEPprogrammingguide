@@ -32,9 +32,11 @@ Now imagine how I feel after spending at least two years working on my project i
 
 There´s is a point that you reach when you're studing programming that you are able to understand the fundamentals and it becomes an irresistible satisfaction when seeing code, at least that happens to me. Being able to understand those paragraphs that I have ever seen as hieroglyphics fills my brain with dopamine, it makes my creativity spurt.
 
-Today I've got more superpowers, I learned GLSL, which is the core language that is used to manipulate the pixels at your will using the GPU and I fall in love with vectors, math in general is just amazing when you see it from an artistic point of view. I also learned C++, which personally I think is so damn cool but harder than Javascript, I'm learning nowadays how to develop software from zero.
+Today I've got more superpowers, I learned GLSL ([OpenGL Shading Language](https://en.wikipedia.org/wiki/OpenGL_Shading_Language), which is the core language that is used to manipulate the pixels at your will using the GPU and I fall in love with vectors, math in general is just amazing when you see it from an artistic point of view. I also learned C++, which personally I think is so damn cool but harder than Javascript, I'm learning nowadays how to develop software from zero.
 
-This is just the beginning, and I feel like a knowledge snowball going down the hill. Learning new things makes me happier, sharing them with you makes me even happier. So hope this can be helpful for you if you are starting on this or at least this can be inspiring :).
+If you are interested to learn GLSL you have to be open minded to learn a weird but cool language. Also you need to understand about algebra, vectors and that stuff, let's say you are going back to highschool, which I loved this GLSL first steps aswell, made me see the beauty of maths in context of art. Here are some resourcers for you to get started on this:
+* [The Book of Shaders](https://thebookofshaders.com/) This an amazing online book that helped me to understand the foundation of GLSL.
+* [WebGL](https://es.wikipedia.org/wiki/WebGL) WebGL is nothing more that using the GPU on the browser, which is amazing. So I recommend you to get into WebGL first becuase it is Javascript and after that once you understand how WebGL works, you could migrate to OpenGL as it kind of the same structure but OpenGL is hard because it is C++. But what the hell, if you like it you'll get anywhere you propose yoursel.
 
 If you are interested to know more about what I create, here are my social media accounts:
 * [Facebook fan page] (http://facebook.com/marioolveram)
@@ -44,6 +46,9 @@ You can join the composite Nation Community and Support group to see what the me
 * [Composite Nation website](http://compositenation.com)
 * [Facebook fan page](http://facebook.com/compositenationofficial)
 * [Instagram Composite Nation's account](http://instagram.com/compositenation)
+
+
+This is just the beginning, and I feel like a knowledge snowball going down the hill. Learning new things makes me happier, sharing them with you makes me even happier. So hope this can be helpful for you if you are starting on this or at least this can be inspiring :).
 
 PS.
 # Never give up on anything that you want in life
