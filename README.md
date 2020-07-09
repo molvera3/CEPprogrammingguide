@@ -3,7 +3,7 @@ If you are like me, you love programming and you are interested in writting pane
 
 **WHO AM I?**
 
-I'm a one man army who founded a software company and community called Composite Nation , which is my main life playground and hobby and I develop 
+I'm a one man army who founded a software company and a creative artists community called [Composite Nation](http://compositenation.com), which is my main life playground and hobby. I had to learn to be a developer to build my project the way I visioned. I'm still working on it 24/7 and nothing excites me more than learning how I can expand this even more.
 ```
 var doc = document;
 ```
