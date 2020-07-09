@@ -20,7 +20,7 @@ Once I was a little bit more condifent by understanding how to read Javascript e
 Here are some tools that I use daily that will help you to become a developer.
 
 First, you'll an IDE (Integrated development environment) to write code. Here's the one which I used to start programming:
-* [Brackets](http://brackets.io/)
+* [Brackets](http://brackets.io/) This is the one that is used by Davide on the HTMLPanels book.
 
 
 Composite Nation and Oniric have been the most difficult thing that I have tried and at the same time the most satisfactory, the biggest challenge that have put my self in my life.
