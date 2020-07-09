@@ -23,9 +23,9 @@ First, you'll an IDE (Integrated development environment) to write code. Here's 
 * [Brackets](http://brackets.io/) This is the one that is used by Davide on the HTMLPanels book.
 
 Second, this software will help you to debug your scripts.
-* [Adobe ExtendScript Toolkit CC] Open your Creative Cloud Desktop Apps preferences, select Apps tab and check Show old Applications.
+* **Adobe ExtendScript Toolkit CC** To install this one, open your Creative Cloud Desktop Apps preferences, select Apps tab and check Show old Applications.
 You will find ESTK in your Apps list.
-However, ESTK is a 32bit app and no longer works in Catalina.
+However, ESTK is a 32bit app and no longer works in Catalina. (Instructions extracted from [this](https://community.adobe.com/t5/coding-corner/where-did-extendscript-go-how-do-we-develop-now/td-p/11002702?page=1) Adobe Community forum.
 
 
 Composite Nation and Oniric have been the most difficult thing that I have tried and at the same time the most satisfactory, the biggest challenge that have put my self in my life.
