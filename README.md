@@ -38,9 +38,12 @@ If you are interested to learn GLSL you have to be open minded to learn a weird 
 * [The Book of Shaders](https://thebookofshaders.com/) This an amazing online book that helped me to understand the foundation of GLSL.
 * [WebGL](https://es.wikipedia.org/wiki/WebGL) WebGL is nothing more that using the GPU on the browser, which is amazing. So I recommend you to get into WebGL first becuase it is Javascript and after that once you understand how WebGL works, you could migrate to OpenGL as it kind of the same structure but OpenGL is hard because it is C++. But what the hell, if you like it you'll get anywhere you propose yoursel.
 
-If you are interested to know more about what I create, here are my social media accounts:
+If you are interested to know more about me or what I create, here are my social media accounts:
 * [Facebook fan page] (http://facebook.com/marioolveram)
 * [Instagram art account] (http://instagram.com/
+
+Here's the project of my first plugin that I developed for Photoshop. You'll find here also some UI designs I went through:
+* [Oniric]
 
 You can join the composite Nation Community and Support group to see what the members are doing with the various softwares I've created so far. 
 * [Composite Nation website](http://compositenation.com)
