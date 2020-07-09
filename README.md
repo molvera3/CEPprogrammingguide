@@ -5,14 +5,14 @@ I'm Mario OM, a freelance Photographer, Retoucher, Matte Painter, CGI artist, ba
 
 So here's how I started:
 
-# Step 1
+# PHASE 1
 I started by learning the most basic stuff, the foundation of programming on this amazing site, the language I learned first was [Javascript](https://developer.mozilla.org/es/docs/Web/JavaScript). Which is the main language that is used on this Adobe Photoshop extensions and scripts.
 * [W3Schools](https://www.w3schools.com/js/default.asp) Here you can learn step by step the foundation of Javascript.
 * [Solo Learn](https://www.sololearn.com/) This is another amazing website to learn to program the basics. I have this one installed on my smartphone and when I travel I enjoy a lot learning another languages. Here I practice a lot my knowledge with Javascript and I learned the foundation of other languages like Pythong and C++. But let's just focus on Javascript today.
 
 Javascript is such an amazing language, once you understand all the things that can be done with this. You can even create stand alone apps aswell with this language using frameworks like [Electron](https://www.electronjs.org/) and the same I use for my server side, the powerful [Nodejs](https://nodejs.org/es/).
 
-# Step 2
+# PHASE 2
 Once I was a little bit more condifent by understanding how to read Javascript every where (at least the foundation), I found and bought [HTMLPanelsBook](https://www.htmlpanelsbook.com/), an amazing course by this funny and talented italian developer, Davide Barranca. You'll see how it is very easy to follow his teaching on this course, it is so clear that even though after two years that I took the course I still learn something from it. So this is a extremely recommended course for you if you are interested to write CEP Panels / Extensions for Adobe Photoshop.
 
 Composite Nation and Oniric have been the most difficult thing that I have tried and at the same time the most satisfactory, the biggest challenge that have put my self in my life.
