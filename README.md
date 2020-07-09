@@ -22,6 +22,11 @@ Here are some tools that I use daily that will help you to become a developer.
 First, you'll an IDE (Integrated development environment) to write code. Here's the one which I used to start programming:
 * [Brackets](http://brackets.io/) This is the one that is used by Davide on the HTMLPanels book.
 
+Second, this software will help you to debug your scripts.
+* [Adobe ExtendScript Toolkit CC] Open your Creative Cloud Desktop Apps preferences, select Apps tab and check Show old Applications.
+You will find ESTK in your Apps list.
+However, ESTK is a 32bit app and no longer works in Catalina.
+
 
 Composite Nation and Oniric have been the most difficult thing that I have tried and at the same time the most satisfactory, the biggest challenge that have put my self in my life.
 
